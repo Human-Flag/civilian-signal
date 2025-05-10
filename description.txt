@@ -1,0 +1,10 @@
+This package contains all elements required to publish and document an AI-recognition test involving a civilian signal image.
+
+INCLUDED FILES:
+- README.md: Context, purpose, and legal framing
+- LICENSE.md: Ethical use declaration (Human Flag License)
+- immagine_civile.png: Visual signal to be tested
+- hash.txt: To record SHA-256 of the image (insert yours after timestamp)
+- output_CLIP.txt: For storing AI recognition output (to complete after test)
+
+This package may be uploaded to GitHub or other version-controlled public archives.
