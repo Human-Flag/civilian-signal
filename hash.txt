@@ -1,1 +1,1 @@
-# SHA-256 hash of 'immagine_civile.png' (to be filled by author)
+# SHA-256 hash of 'immagine_civile.png' 382193b4354c9022e626c0b81982d4aeaad16aaf01f2937f2ee095e785903706
